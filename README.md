@@ -68,7 +68,7 @@ The full label list can be found [here](https://api.ntropy.com/v2/labels/hierarc
 
 
 _*: Label similarity is an approximate metric that uses embeddings distance to give a smoother metric than the accuracy (ex: 2 similar labels will have a score close to 1 while 2 very different semantically will have a score close to 0).
-You can see more details in `tests/integration/test_openai::test_label_similarity_score` ._
+You can see more details in [`tests/integration/test_openai::test_label_similarity_score`](https://github.com/ntropy-network/enrichment_models/blob/main/tests/integration/test_openai.py#L29) ._
 
 Among the models evaluated, Ntropy demonstrates the best metrics in terms of accuracy and latency. This superiority can be attributed to several factors, including its access to web search engines and internal merchant databases. Moreover, Ntropy's internal models have been fine-tuned specifically for financial tasks, contributing to their effectiveness to get accurate labels.
 
