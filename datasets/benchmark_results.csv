@@ -1,0 +1,8 @@
+,GPT 3,GPT 4,LLAMA finetuned 7B,LLAMA finetuned 13B,Ntropy API
+Labeler Accuracy,0.6,0.71,0.72,0.78,0.86
+Labeler F1 Score,0.56,0.64,0.56,0.65,0.73
+Labeler Label similarity,0.7,0.85,0.82,0.87,0.91
+Labeler latency (s/tx),0.56,1.47,0.27,0.34,0.01
+Merchant Accuracy,0.48,0.66,,,0.87
+Website Accuracy,0.56,0.69,,,0.87
+Normalizer latency (s/tx),1.16,4.45,,,0.01

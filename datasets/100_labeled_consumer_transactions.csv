@@ -1,0 +1,101 @@
+description,date,entry_type,amount,iso_currency_code,country,account_holder_type,account_holder_id,merchant_correct,website_correct,labels_correct
+EARLY PAY: PETCO ANIMAL SUP DIRECT DEP 661021916777KVV 012243,2023-01-01,incoming,1290.44,USD,US,consumer,benchmark_account,Petco,petco.com,Paycheck
+DOORDASH*ZEEKS PIZZA,2023-01-02,outgoing,82.8,USD,US,consumer,benchmark_account,DoorDash,doordash.com,Food and Drink
+Withdrawal ACH NSF Fee ($323.55 KWIKCASHKC),2023-01-03,outgoing,19.95,USD,US,consumer,benchmark_account,KwikCash,kwikcashonline.com,Non-sufficient funds / Overdraft fee
+BILL PAY BMW R18 CLASSIC                       RECURRING xxxxxx9876 ON 01-04,2023-01-04,outgoing,798,USD,US,consumer,benchmark_account,BMW,bmw.com,Auto lease payment
+1108914IH2NS48MR HABIT PROVO 0279,2023-01-05,outgoing,16.8,USD,US,consumer,benchmark_account,The Habit Burger Grill,habitburger.com,Food and Drink
+0173 AMC MESQUITE 23 MESQUITE TX 01/06,2023-01-06,outgoing,40.32,USD,US,consumer,benchmark_account,AMC Theatres,amctheatres.com,Entertainment and recreation
+"SUDSHARE* S...876 SUDSHARE, .C #100",2023-01-07,outgoing,20.39,USD,US,consumer,benchmark_account,SudShare,https://poplin.co/ | sudshare.com,Laundry
+EB SLANDER PRESEN 04/12 PURCHASE 8091735211,2023-01-08,outgoing,1767.03,USD,US,consumer,benchmark_account,Eventbrite,eventbrite.com,Entertainment and recreation
+Brigit-com PROTECTION WEB 8JDB682JD0,2023-01-09,outgoing,105,USD,US,consumer,benchmark_account,Brigit,hellobrigit.com,Loan repayment
+"Direct Debit: Napa Benefits, 892830232",2023-01-10,outgoing,46.73,USD,US,consumer,benchmark_account,NAPABenefits | NAPA Benefits,napa-benefits.org,Insurance
+POS PURCH - AFTERPAY 5999 CA 101-928739273 AFTERPAY US,2023-01-11,outgoing,49.36,USD,US,consumer,benchmark_account,Afterpay,afterpay.com,"Buy now, pay later"
+TEDS MONTANA GRILL 12,2023-01-12,outgoing,72.07,USD,US,consumer,benchmark_account,Ted's Montana Grill,tedsmontanagrill.com,Food and Drink
+CAPITAL ONE ONLINE PMT 781123 2NYXE2URO2XY,2023-01-13,outgoing,988.71,USD,US,consumer,benchmark_account,Capital One,capitalone.com,Credit card bill
+23617 POS SIGNATURE FRITZS AUTO SPA LLC FRITZS AUTO SPA LL SAINT JOSEP,2023-01-14,outgoing,9.45,USD,US,consumer,benchmark_account,Fritz's Auto Spa,fritzscarwash.com,Vehicle maintenance
+Goody Goody Liqu#10d,2023-01-15,outgoing,52.5,USD,US,consumer,benchmark_account,Goody Goody,https://www.goodygoody.com/,Liquor
+WEAVER STREET MARKET H,2023-01-16,outgoing,25.19,USD,US,consumer,benchmark_account,Weaver Street Market,weaverstreetmarket.coop,Groceries
+"FROM CGB ENTERPRISE, DIRECT DEP",2023-01-17,incoming,936.47,USD,US,consumer,benchmark_account,Consolidated Grain & Barge,cgb.com,Paycheck
+YSI*Allora Bella Terra TX 01/18,2023-01-18,outgoing,1527.7,USD,US,consumer,benchmark_account,Yardi,yardi.com,Rent and property management fee
+COSTA DEL SOL LATINO M HENRICO VA 01/19,2023-01-19,outgoing,26.9,USD,US,consumer,benchmark_account,Costa DEL Sol,facebook.com/costa.delsol.14203/,Groceries
+DSW PRESTONWOOD 5201 BELT,2023-01-20,outgoing,27.27,USD,US,consumer,benchmark_account,DSW | Dsw Designer Shoe Warehouse,dsw.com,Clothing
+DISHOOM BIRMINGHAM,2023-01-21,outgoing,59.54,USD,US,consumer,benchmark_account,Dishoom,dishoom.com,Food and Drink
+CHECKCARD 01/22 AFFIRM PAY 22LS5C0E,2023-01-22,outgoing,39.8,USD,US,consumer,benchmark_account,Affirm,affirm.com,"Buy now, pay later"
+PURCHASE                                AUTHORIZED ON   01/23 ALAMO SOUTH LAMAR         981-821-6020  TX  S018292738292   CARD 1082,2023-01-23,outgoing,33.29,USD,US,consumer,benchmark_account,Alamo Drafthouse Cinema South Lamar,https://drafthouse.com/austin/theater/south-lamar,Entertainment and recreation
+WEIGELS 82 Q81,2023-01-24,outgoing,1.05,USD,US,consumer,benchmark_account,Weigel's,weigels.com,Convenience stores
+WEBFLOW,2023-01-25,outgoing,18.9,USD,US,consumer,benchmark_account,Webflow,webflow.com,SaaS tools
+CHECK # 1716,2023-01-26,outgoing,163.14,USD,US,consumer,benchmark_account,None,None,Not enough information
+THUMBTACK 781791231,2023-01-27,outgoing,40.91,USD,US,consumer,benchmark_account,Thumbtack,thumbtack.com,Home improvements and maintenance services
+RACK ROOM SHOES #4010,2023-01-28,outgoing,90.71,USD,US,consumer,benchmark_account,Rack Room Shoes,rackroomshoes.com,Clothing
+CITY OF TORRANCE DES:XXXXX67214 ID:2B0BO4A INDN:CONNOR SMITH CO ID:XXXXX32468 PPD,2023-01-29,outgoing,91.99,USD,US,consumer,benchmark_account,Torrance | City of Torrance,torranceca.gov,Government
+0324 FOREIGN ATM FEE DAIGLS PHIL-K182913,2023-01-30,outgoing,2.1,USD,US,consumer,benchmark_account,None,None,Bank fee
+CRUMBL,2023-01-31,outgoing,23.24,USD,US,consumer,benchmark_account,Crumbl Cookies,crumblcookies.com,Food and Drink
+FUNZPOINTS-4X3DA5YBC,2023-02-01,outgoing,5.24,USD,US,consumer,benchmark_account,Funzpoints,funzpoints.com,Gambling
+HESTON CIMENT PLLC KATY TX 02/02,2023-02-02,outgoing,136.5,USD,US,consumer,benchmark_account,Heston Ciment,hestonciment.com | https://www.linkedin.com/company/heston-ciment-pllc | cimentlawfirm.com/  ,Legal services
+BEANS & BREWS COFFEE HOU,2023-02-03,outgoing,7.3,USD,US,consumer,benchmark_account,Beans & Brews,beansandbrews.com,Cafes and coffee shops
+CITI AUTOPAY     PAYMENT    230204 0189223791200 ROBERT DUPONT,2023-02-04,outgoing,60.9,USD,US,consumer,benchmark_account,Citi,citi.com,Credit card bill
+SHEIN,2023-02-05,outgoing,56.33,USD,US,consumer,benchmark_account,Shein,shein.com,Clothing
+TEMPORARY CREDIT FROM X1662,2023-02-06,incoming,4.91,USD,US,consumer,benchmark_account,None,None,Reversal / adjustment
+Hctra Eztag Storefront,2023-02-07,outgoing,50.39,USD,US,consumer,benchmark_account,Harris County Toll Road Authority,hctra.org,Toll charge
+IN *DRAINAGE EXPERTS,2023-02-08,outgoing,196.82,USD,US,consumer,benchmark_account,Drainage Experts LLC | Drainage Experts,www.drainageexpertsllc.com/,Other consumer services
+THE BETTER WASH GLADSTONE / MOUS : POS Transaction,2023-02-09,outgoing,23.1,USD,US,consumer,benchmark_account,The Better Wash,thebetterwash.com,Vehicle maintenance
+USAA LOAN PAYMENT,2023-02-10,outgoing,511.56,USD,US,consumer,benchmark_account,USAA,usaa.com,Loan repayment
+DUKEENERGY-FL DUKEENERGY FEB 02 2901845272002 SCOTT SMITH,2023-02-11,outgoing,229.37,USD,US,consumer,benchmark_account,Duke Energy,duke-energy.com,Utilities
+CHECKCARD 0322 HANDELS HOMEMADE MCKINNEY TX XXXXX4332XXXXXXXXXX0322,2023-02-12,outgoing,26.05,USD,US,consumer,benchmark_account,Handel's Homemade Ice Cream,handelsicecream.com,Food and Drink
+Transunion,2023-02-13,outgoing,20.95,USD,US,consumer,benchmark_account,TransUnion,transunion.com,Credit report
+CULVERS OF LAKE NONA ORLANDO FL 02/14,2023-02-14,outgoing,4.91,USD,US,consumer,benchmark_account,Culver's,culvers.com,Food and Drink
+Razorz Barbershop,2023-02-15,outgoing,31.4,USD,US,consumer,benchmark_account,Razorz Barbershop,razorzbarbershop.com,Self care
+ORIG CO NAME:AIRBNB PAYMENTS ORIG ID:382391731 DESC DATE: CO ENTRY DESCR:XQWZ09812QSEC:PPD TRACE#:33322410128 EED:5522121 IND ID: IND NAME:MR SMITH ROBERT: 987129868123TC,2023-02-16,incoming,854.63,USD,US,consumer,benchmark_account,Airbnb,airbnb.com,Property rental
+PURCHASE                                AUTHORIZED ON   02/17 EDGEWOOD CREAMERY         BIRMINGHAM    AL  S70173982721   CARD 5201,2023-02-17,outgoing,9.77,USD,US,consumer,benchmark_account,Edgewood Creamery,edgewoodcreamery.com | edgewoodicecream.com,Food and Drink
+CASA DE TINTAS IZUMI,2023-02-18,outgoing,245.7,BRL,US,consumer,benchmark_account,TINTAS IZUMI | Izumi Paints House | Casa de Tintas Izumi,tintasizumi.com.br,Home improvements and maintenance services
+CHECKCARD 0118 SQUID ROE CABO SAN LUCA XXXXX3150XXXXXXXXXX7021 INTERNATIONAL TRANSACTION FEE        ,2023-02-19,outgoing,1.38,USD,US,consumer,benchmark_account,El Squid Roe,elsquidroe.com,Bank fee
+POS MICROSOFT XBOX,2023-02-20,outgoing,5.61,USD,US,consumer,benchmark_account,Xbox | Microsoft Xbox,xbox.com,Entertainment and recreation
+"Goldman Sachs Ba P2P        Gould,Louis",2023-02-21,incoming,7035,USD,US,consumer,benchmark_account,Goldman Sachs,goldmansachs.com,Inter account transfer
+SSP*PremierBalletConserv 420-1987131  AZ,2023-02-22,outgoing,25.2,USD,US,consumer,benchmark_account,Premier Ballet Conservatory,premierballetconservatory.com,Education
+ACH WEB CKFXXXXX8132 CHASE CARD SERV ONLINE PMT,2023-02-23,outgoing,945,USD,US,consumer,benchmark_account,Chase,chase.com,Credit card bill
+USAA CREDIT CARD PAYMENT 9926283729231 WEB ID: 12987121,2023-02-24,outgoing,186.32,USD,US,consumer,benchmark_account,USAA,usaa.com,Credit card bill
+PF CHANGS #9938 0025WEST CHESTER OH        ,2023-02-25,outgoing,21,USD,US,consumer,benchmark_account,P. F. Chang's,pfchangs.com,Food and Drink
+PETERBROOKE CHO 3233,2023-02-26,outgoing,8.99,USD,US,consumer,benchmark_account,Peterbrooke Chocolatier,peterbrooke.com,Food and Drink
+KLARNA INC               KLARNA.COM   OH,2023-02-27,outgoing,26.96,USD,US,consumer,benchmark_account,Klarna,klarna.com,"Buy now, pay later"
+ORACLE AMERICA   SALARY     23011821 1298131         PETER GREGOR,2023-02-28,incoming,2000.43,USD,US,consumer,benchmark_account,Oracle,oracle.com,Paycheck
+PNC MAKE A PMT LOAN PYMT 230301 123123,2023-03-01,outgoing,14550.28,USD,US,consumer,benchmark_account,PNC | PNC Bank,pnc.com,Loan repayment
+FAVOR RAISING CAN 03/02 REFUND 0892373,2023-03-02,incoming,33.06,USD,US,consumer,benchmark_account,Raising Cane’s Chicken Fingers,https://www.favordelivery.com/order-delivery/raising-canes-chicken-fingers-60/ ,Refund
+ALS AUTO CENTER PASADENA CA03/03,2023-03-03,outgoing,105,USD,US,consumer,benchmark_account,Als Tire Shop | Al's Auto Center,alstireshop.com,Vehicle maintenance
+BOSE STORE 327 ONTARIO CA 03/04,2023-03-04,outgoing,130.43,USD,US,consumer,benchmark_account,Bose,bose.com,Electronics
+FUJI SUSHI TURLOCK US,2023-03-05,outgoing,73.05,USD,US,consumer,benchmark_account,Fuji Sushi,fujisushimd.com | fujisushicatogo.com,Food and Drink
+CHECK CARD CREDIT APPLE.COM/BILL,2023-03-06,incoming,12.69,USD,US,consumer,benchmark_account,Apple,apple.com,Refund
+BKOFAMERICA ATM 03/07 #000006020 DEPOSIT VICTOR VICTOR,2023-03-07,incoming,189,USD,US,consumer,benchmark_account,None,None,ATM/bank deposit
+MVM3 98120398rent WEB1897137 Gislain A Cottle REF # 0913783223,2023-03-08,outgoing,422.05,USD,US,consumer,benchmark_account,MVM,mvmrentals.com/,Rent and property management fee
+DOORDASH*JOHNNYS BUR WWW.DOORDASH. CA 03/09,2023-03-09,outgoing,36.19,USD,US,consumer,benchmark_account,Doordash,doordash.com,Food and Drink
+Frontier Ai Tdmfjn,2023-03-10,outgoing,89.22,USD,US,consumer,benchmark_account,Frontier Airlines,flyfrontier.com,Other transport
+OFFICEDEPOT,2023-03-11,outgoing,15.7,USD,US,consumer,benchmark_account,Office Depot,officedepot.com,Department and discount stores
+Park Central 4 RENT 1298U12098111 WEB ID: 120911108,2023-03-12,outgoing,1110.61,USD,US,consumer,benchmark_account,None,None,Rent and property management fee
+Deposit from Univest - Personal Checking,2023-03-13,incoming,183.75,USD,US,consumer,benchmark_account,None,None,Intra account transfer
+Trader Joe's #012 Qps Sanfrancisco Ca,2023-03-14,outgoing,78.65,USD,US,consumer,benchmark_account,Trader Joe's,traderjoes.com,Groceries
+Experian* Credit Repor CA 03/15,2023-03-15,outgoing,20.99,USD,US,consumer,benchmark_account,Experian,experian.com,Credit report
+AMERICAN001291271212 80086712200 TX,2023-03-16,outgoing,133.42,USD,US,consumer,benchmark_account,American Airlines,aa.com,Other transport
+BURLINGTON VETERINARBURLINGTON CT,2023-03-17,outgoing,142.66,USD,US,consumer,benchmark_account,Burlington Veterinary Center,burlingtonvetctr.com,Pets
+WIRE TYPE:WIRE IN DATE: 230317 TIME:1212 ET TRN:XXXXXXXXXX7991721 SEQ:XXXXX129812/0077821 ORIG:OKCOIN USA INC. ID:XXXXX221342 SND BK:SIGNATUR E BANK ID:XXXXX22671 PMT DET:XXXXXXXXXX78137182,2023-03-18,outgoing,47.25,USD,US,consumer,benchmark_account,Okcoin,okcoin.com,Trading (crypto)
+SALARY SHERIDAN HEALTHC 190323,2023-03-19,incoming,1950.02,USD,US,consumer,benchmark_account,Sheridan Healthcare,linkedin.com/company/sheridan-healthcorp/ ,Paycheck
+TARGET DEBIT CRD REVERSAL CO ID:XXXXX8182677 POS TARGET -2012,2023-03-20,incoming,47.54,USD,US,consumer,benchmark_account,Target,target.com,Reversal / adjustment
+DUNHAMS 021,2023-03-21,outgoing,44.82,USD,US,consumer,benchmark_account,Dunham's Sports,dunhamssports.com,Recreational goods
+CREDIT CARD LAKE MEDICAL IMAGING AND THE VILLAGES FL Date XX 8087,2023-03-22,outgoing,121.03,USD,US,consumer,benchmark_account,Lake Medical Imaging,lakemedicalimaging.com,Medical bill
+FAIRFIELD INN SUITES BY MARRIO,2023-03-23,outgoing,168,USD,US,consumer,benchmark_account,Fairfield Inn & Suites,marriott.com/en-us/hotels/oaknp-fairfield-inn-and-suites-fairfield-napa-valley-area/overview/,Hotels and lodging
+WAL-MART  Wal-  03/24 #000981637 PURCHASE                   WAL-MART  Wal-Mar  SAN DIEGO (C) CA,2023-03-24,outgoing,33.86,USD,US,consumer,benchmark_account,Walmart,walmart.com,Department and discount stores
+USA*SNACK SODA VENDING SAN DIEGO CA 03/25 DEBIT_CARD,2023-03-25,outgoing,1.84,USD,US,consumer,benchmark_account,Vending Machines | Snack Soda Vending Machines ,facebook.com/marketplace/sandiego/vending-machines/,Food and Drink
+SALVATORE CAPELLI PERRYSBURG OH 0002101628019813520671,2023-03-26,outgoing,297.56,USD,US,consumer,benchmark_account,Salvatore Capelli,salvatorecapelli.com | salvatore-capelli.square.site,Self care
+"NELNET LOAN SERV DES:PAYMENT ID:XXXXX7188 INDN:LABOONE, PHIL M. CO ID:FXXXXX8101 PPD",2023-03-27,outgoing,139.65,USD,US,consumer,benchmark_account,Nelnet,nelnet.com,Student loan repayment
+ALOHA CAR WASH COMPA ALOHACARWASHC WA 03/28,2023-03-28,outgoing,13.92,USD,US,consumer,benchmark_account,Aloha Car Wash Company,alohacarwashcompany.com,Vehicle maintenance
+830712 COSTCO GAS #0122 VALLEJO CAUS,2023-03-29,outgoing,58.01,USD,US,consumer,benchmark_account,Costco,costco.com,Fuel
+CAPITAL ONE DES:CRCARDPMT ID:3MZBQVGWN5BB7UI INDN:EDOUARD T DUFOUR CO ID:XXXXX18818 WEB,2023-03-30,outgoing,10.49,USD,US,consumer,benchmark_account,Capital One,capitalone.com,Credit card bill
+DBT CRD 1442 03/31/23 897192683 HOME CHEF HOME CHEF 872-225-2433 IL C#3620,2023-03-31,outgoing,31.29,USD,US,consumer,benchmark_account,Home Chef,homechef.com,Food and Drink
+GANAHL LUMBER - ANAHEIM -ANAHEIM CA #120989081238,2023-04-01,outgoing,2.22,USD,US,consumer,benchmark_account,Ganahl Lumber,ganahllumber.com,Home improvements and maintenance services
+PURCHASE 04/02 MICROSOFT*SUBSCRIPTION,2023-04-02,outgoing,17.04,USD,US,consumer,benchmark_account,Microsoft,microsoft.com,SaaS tools
+ELECTRONIC DEPOSIT - MARQUISMANAGEMENDIRECT PAY,2023-04-03,incoming,1668.95,USD,US,consumer,benchmark_account,Marquis Management,marquismgt.com,Paycheck
+1ST BANKCARD CTR ONLINE PMT 331198 2F0C5DO189172  BRANDON J MIKE,2023-04-04,outgoing,74.12,USD,US,consumer,benchmark_account,First Bankcard,firstbankcard.com | card.fnbo.com,Credit card bill
+WATERONE\RECUR DES:UTILITY ID:6837283 INDN:BETHANY WENDLAND CO ID:XXXXX78173 WEB,2023-04-05,outgoing,138.89,USD,US,consumer,benchmark_account,WaterOne,waterone.org,Utilities
+BRICKELL TRAVEL PAYROLL PPD ID: 12871273132,2023-04-06,incoming,278.54,USD,US,consumer,benchmark_account,Brickell Travel Management,brickelltravel.com,Paycheck
+Payment to Cigna,2023-04-07,outgoing,33.5,USD,US,consumer,benchmark_account,Cigna,cigna.com,Insurance
+Card purchase 4LR*4LIFERESEARCHLC 123-522-2300 UT 04-08-2023 DEBIT,2023-04-08,outgoing,153.58,USD,US,consumer,benchmark_account,4Life,4life.com,Self care
+PUMP N SHOP 22 04/09 PURCHASE,2023-04-09,outgoing,13.64,USD,US,consumer,benchmark_account,Clark's Pump-N-Shop | Clark's Pump N Shop,myclarkspns.com,Convenience stores
+Acorns Investing Transfer 123980 JIKCR7 Cristiano Pombal,2023-04-10,outgoing,569.86,USD,US,consumer,benchmark_account,Acorns,acorns.com,Investment

@@ -1,0 +1,12 @@
+# Ignore development and editor files
+.git
+.vscode
+.pytest_cache
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__
+
+# Ignore local development files
+.venv
