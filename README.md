@@ -18,7 +18,7 @@
 
   <h2 align="center">Financial transaction models benchmark</h2>
 
-  <h3 align="center">This repository benchmark Ntropy API against different Large Language Models (OpenAI ChatGPT and LLAMA finetuned models). It also contains an easy to use wrapper to enable using the LLMs to perform transaction enrichment. Llama adapters were open sourced and are available on huggingface hub. </h3>
+  <h3 align="center">This repository provides a benchmark of the Ntropy API and different Large Language Models (OpenAI ChatGPT and LLAMA finetuned models) in the task of transaction enrichment. It also contains an easy to use wrapper that enables using the LLMs to perform transaction enrichment. Llama adapters were open sourced and are available on huggingface hub. </h3>
 </div>
 
 
@@ -74,7 +74,7 @@ Among the models evaluated, Ntropy demonstrates the best metrics in terms of acc
 
 We noticed that when a Llama model is fine-tuned on consumer transactions, even without having access to external information about merchants, it achieves a higher accuracy compared to GPT-4 (by 7 points). This suggests that LLM's models possess a considerable amount of knowledge about companies, even though measuring this knowledge directly can be challenging. Additionally, retrieving cleaned company names and websites appears to be more difficult for these models.
 
-Based on this dataset, it is 'funny' to note that GPT-4 has the ability to generate websites that appear to be correct at first glance but, in reality, do not exist. For instance:
+Based on this dataset, it is 'interesting' to note that GPT-4 has the ability to generate websites that appear to be correct at first glance but, in reality, do not exist. For instance:
 - KwikCash => http://www.kwikcash.com/ (instead of https://www.kwikcashonline.com/)
 - Clark's Pump-N-Shop => https://pumpnshop.com/ (instead of https://www.myclarkspns.com/)
 - ...
@@ -90,7 +90,7 @@ Note: LLAMA models were benchmarked on a single A100 GPU.
 
 _This project uses python>=3.10_
 
-Python package that can be installed either using poetry or pip:
+The Python package that can be installed either using poetry or pip:
 
 - Poetry:
 
@@ -112,11 +112,11 @@ Depending on which model you want to run, you need at least one of the following
 For using the Ntropy API, you need an API KEY:
 
 - Go to https://dashboard.ntropy.com/
-- Create an account (you can use your google account or any mail)
+- Create an account (you can login with a google account, but you must use a company domain)
 - On the left-side menu, you can click on "API Keys" and then click on "Create API Key"
 - Copy the API KEY and paste it here: [`enrichment_models/__init__.py`](https://github.com/ntropy-network/enrichment_models/blob/main/enrichment_models/__init__.py)
 
-Note: You will get a limit of 10 000 transactions with a free account! If you need more, please contact us.
+Note: You will get a limit of 10 000 transactions with a free account. If you need more, please contact us.
 
 ### OpenAI API Key
 
